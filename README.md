@@ -43,7 +43,7 @@ Example with wrong input
 Enter the coefficient a: 2
 Enter the coefficient b: 5
 Enter the coefficient c: bukva
-Please enter a numerical value
+Value is not a number!
 Enter the coefficient c: -3
 -------------------------------
 a = 2
