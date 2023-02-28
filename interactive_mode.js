@@ -1,8 +1,8 @@
 import chalk from "chalk";
 import readline from "readline";
-import { solveEquation } from "./solveFunction.js";
+import { solveEquation } from "./solve_function.js";
 
-const consoleMode = () => {
+export const consoleMode = () => {
   const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
