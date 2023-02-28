@@ -10,7 +10,7 @@ In the interactive mode (application is launched without any arguments) applicat
 In the non-interactive (file) mode, application accepts a single argument, which is the path to a file with coefficients of the equation. The file should contain three numbers separated by a single space.
 
 ## How to Run
-
+Download nodejs https://nodejs.org/uk/
 ### To start in interactive mode:
 ```
 $ node main.js
