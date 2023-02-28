@@ -103,3 +103,4 @@ Equation is: (5)x^2 + (6)x +(7) = 0
 ```
 
 # Link on Revert Commit
+https://github.com/PerveevEvgen/mtrpz_lab1/commit/b068c54b6f3a67ec06536c40a5326d6ca319ab4c
