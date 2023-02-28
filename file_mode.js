@@ -14,7 +14,7 @@ export function fileMode(filename) {
 
   const fileData = readFileSync(filePath).toString();
   if (!isDataValid(fileData)) {
-    console.log("invalid file format");
+    console.log("Not all arguments are numbers");
     return;
   }
   const fileDataParse = () => {
