@@ -5,10 +5,6 @@
 
 This is a console application designed to solve quadratic equations, it supports two modes of operation: interactive(console) and non-interactive (file) mode.
 
-In the interactive mode (application is launched without any arguments) application prompts user to enter the values of the coefficients a, b, and c one by one, then displays the resulting equation on the screen, and computes and displays the roots of the equation. If user enter invalid values he will see an error and application prompts him to try again. 
-
-In the non-interactive (file) mode, application accepts a single argument, which is the path to a file with coefficients of the equation. The file should contain three numbers separated by a single space.
-
 ## How to Run
 Download nodejs https://nodejs.org/uk/
 ### To start in interactive mode:
